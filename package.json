@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevetrilogy/unit10hw.git"
+    "url": "git+https://github.com/msurio/team-profile-generator"
   },
-  "author": "",
+  "author": "Marc Anthony Surio",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stevetrilogy/unit10hw/issues"
+    "url": "https://github.com/msurio/team-profile-generator/issues"
   },
-  "homepage": "https://github.com/stevetrilogy/unit10hw#readme",
+  "homepage": "https://github.com/msurio/team-profile-generator#readme",
   "dependencies": {
     "inquirer": "^6.3.1"
   },
